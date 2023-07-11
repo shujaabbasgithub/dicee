@@ -6,11 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Dicee App - with Default Logo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- all strated with main.dart file that is by default file and main file to execute the application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- second file is 'gradient_container' file which includes all feature of homepage and had all widgets.
+
+- third file we have 'dice_roller' includes functionality of rolling dice.
+
+- assets/images folder contains all dice images.
+
+- Overall it's a groundlevel basic app of flutter to understand the basic structure, features and widgets like Materialapp, Scafold, Widget tree, variables,  Center, @override and widget build method, Container, Stateful, const, Stateless, Customized widgets etc.
