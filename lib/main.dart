@@ -7,8 +7,8 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: GradientContainer(
-           Color.fromARGB(255, 11, 30, 106),
-           Color.fromARGB(255, 8, 30, 86),
+          Color.fromARGB(255, 11, 30, 106),
+          Color.fromARGB(255, 8, 30, 86),
         ),
       ),
     ),
