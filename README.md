@@ -16,4 +16,4 @@ Dicee App - with Default Logo
 
 - assets/images folder contains all dice images.
 
-- Overall it's a groundlevel basic app of flutter to understand the basic structure, features and widgets like Materialapp, Scafold, Widget tree, variables,  Center, @override and widget build method, Container, Stateful, const, Stateless, Customized widgets etc.
+- Overall it's a groundlevel basic app of flutter to understand the basic structure, features and widgets like Materialapp, Scaffold, Widget tree, variables,  Center, @override and widget build method, Container, Stateful, const, Stateless, Customized widgets etc.
